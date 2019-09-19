@@ -1,4 +1,4 @@
-This project is a climate analysis and data exploration of an SQLite climate database. 
+This project is a climate analysis and data exploration of an SQLite climate database based on the climate in Hawaii. 
 
 Includes;
 
